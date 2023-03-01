@@ -1,0 +1,15 @@
+C:\projects\c-sharp-sample\bin\Debug\net7.0\c-sharp-sample.exe
+C:\projects\c-sharp-sample\bin\Debug\net7.0\c-sharp-sample.deps.json
+C:\projects\c-sharp-sample\bin\Debug\net7.0\c-sharp-sample.runtimeconfig.json
+C:\projects\c-sharp-sample\bin\Debug\net7.0\c-sharp-sample.dll
+C:\projects\c-sharp-sample\bin\Debug\net7.0\c-sharp-sample.pdb
+C:\projects\c-sharp-sample\obj\Debug\net7.0\c-sharp-sample.csproj.AssemblyReference.cache
+C:\projects\c-sharp-sample\obj\Debug\net7.0\c-sharp-sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c-sharp-sample\obj\Debug\net7.0\c-sharp-sample.AssemblyInfoInputs.cache
+C:\projects\c-sharp-sample\obj\Debug\net7.0\c-sharp-sample.AssemblyInfo.cs
+C:\projects\c-sharp-sample\obj\Debug\net7.0\c-sharp-sample.csproj.CoreCompileInputs.cache
+C:\projects\c-sharp-sample\obj\Debug\net7.0\c-sharp-sample.dll
+C:\projects\c-sharp-sample\obj\Debug\net7.0\refint\c-sharp-sample.dll
+C:\projects\c-sharp-sample\obj\Debug\net7.0\c-sharp-sample.pdb
+C:\projects\c-sharp-sample\obj\Debug\net7.0\c-sharp-sample.genruntimeconfig.cache
+C:\projects\c-sharp-sample\obj\Debug\net7.0\ref\c-sharp-sample.dll
